@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "TypingTest",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "Typing_Test",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}
